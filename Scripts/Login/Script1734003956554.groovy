@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.baseUrl)
+
+WebUI.setText(findTestObject('null'), usernameValid)
+
+WebUI.setEncryptedText(findTestObject('null'), 'tzH6RvlfSTg=')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 'Admin12')
+
+WebUI.setEncryptedText(findTestObject('null'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.setText(findTestObject('null'), 'Admin')
+
+WebUI.setEncryptedText(findTestObject('null'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+
+WebUI.click(findTestObject('null'))
+
+WebUI.click(findTestObject('null'))
+
+WebUI.closeBrowser()
+

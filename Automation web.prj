@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>Automation web Katalon</name>
+   <name>Automation web</name>
    <tag></tag>
-   <UUID>0ccc4c67-dbc3-43ae-873d-64e09b4b3bd4</UUID>
+   <UUID>4fae694a-312f-4b05-97d8-48466ce89232</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
